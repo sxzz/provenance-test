@@ -1,4 +1,9 @@
 {
   "name": "@test-zone/provenance",
-  "version": "0.0.0"
+  "version": "0.0.0",
+  "packageManager": "pnpm@10.15.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sxzz/provenance-test.git"
+  }
 }
